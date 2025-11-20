@@ -77,5 +77,3 @@ See [src/data/dictionary_oss/README.txt](src/data/dictionary_oss/README.txt)
 Public Domain.  See the comment in
 [src/data/test/stress_test/sentences.txt](src/data/test/stress_test/sentences.txt)
 
-
-ほげ〜。
